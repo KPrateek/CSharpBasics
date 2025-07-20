@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "C#Basics": {
+    "CSharpBasics": {
       "commandName": "Project"
     },
     "Container (Dockerfile)": {
